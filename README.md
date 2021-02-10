@@ -1,2 +1,2 @@
 # wf-editor
-Drag'n'drop interface for building custom workflows (Rails/Vue+Vuex - select files only)
+Drag'n'drop interface for building custom workflows (Rails/Vue+Vuex - select folders only)
